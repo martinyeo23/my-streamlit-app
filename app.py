@@ -25,7 +25,7 @@ df = load_data(DATA_PATH)
 # You can set the page title and layout here
 st.set_page_config(page_title="HDB Resale Dashboard", layout="wide")
 
-st.title("Singapore HDB Resale Dashboard")
+st.title("Singapore HDB Resale Dashboard v1.1")
 st.caption("Code-along: building a usable dashboard from real resale transactions.")
 
 st.header("Dashboard Overview")
